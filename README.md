@@ -36,7 +36,7 @@ A minimal PyTorch implementation of YOLOv4.
 │   └── yolo_layer.py
 ```
 
-![image](https://github.com/Aaron2Bin/pytorch-YOLOv4/tree/master/data/dog.jpg?raw=true)
+![image](./data/dog.jpg)
 
 # 0. Weights Download
 
